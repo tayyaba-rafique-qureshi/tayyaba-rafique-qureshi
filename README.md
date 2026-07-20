@@ -1,9 +1,9 @@
 <div align="center">
 
-# Tayyaba Rafique Qureshi
+# Tayyaba Rafique
 ### Frontend & Full-Stack Developer | Software Engineering Student
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FFB6C1&center=true&vCenter=true&width=650&lines=React+Developer+building+full-stack+experiences;MERN+Stack+%7C+Node.js+%7C+AI+Integration;Frontend+%26+Full-Stack+Developer;Open+to+opportunities+in+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FFB3DE&center=true&vCenter=true&width=650&lines=React+Developer+building+full-stack+experiences;MERN+Stack+%7C+Node.js+%7C+AI+Integration;Frontend+%26+Full-Stack+Developer;Open+to+opportunities+in+2026)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,11 +28,11 @@ const tayyaba = {
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-%23ff69b4.svg?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23ffb6c1.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%23ff1493.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23ff69b4.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%23ffb6c1.svg?style=for-the-badge&logo=css3&logoColor=black)
+![React](https://img.shields.io/badge/React-%23F38BCA.svg?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FFB3DE.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%23E863B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23F38BCA.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%23FFB3DE.svg?style=for-the-badge&logo=css3&logoColor=black)
 
 </div>
 
@@ -40,9 +40,9 @@ const tayyaba = {
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-%23ff1493.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23ff69b4.svg?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23ffb6c1.svg?style=for-the-badge&logo=fastapi&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23E863B6.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23F38BCA.svg?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23FFB3DE.svg?style=for-the-badge&logo=fastapi&logoColor=black)
 
 </div>
 
@@ -50,10 +50,10 @@ const tayyaba = {
 
 <div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%23ff69b4.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%23ff1493.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23ffb6c1.svg?style=for-the-badge&logo=amazonaws&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%23ff69b4.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23F38BCA.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23E863B6.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FFB3DE.svg?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%23F38BCA.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -61,10 +61,10 @@ const tayyaba = {
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-%23ffb6c1.svg?style=for-the-badge&logo=python&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-%23ff69b4.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%23ff1493.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23ffb6c1.svg?style=for-the-badge&logo=git&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%23FFB3DE.svg?style=for-the-badge&logo=python&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-%23F38BCA.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%23E863B6.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23FFB3DE.svg?style=for-the-badge&logo=git&logoColor=black)
 
 </div>
 
@@ -146,8 +146,8 @@ Flask REST API with JWT auth, CRUD for pet listings and adoption requests, and a
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23ff69b4.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyaba-rafique-qureshi)
-[![GitHub](https://img.shields.io/badge/GitHub-%23ffb6c1.svg?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tayyaba-rafique-qureshi)
-[![Gmail](https://img.shields.io/badge/tayyaba.rafique.qureshi%40gmail.com-%23ff1493.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tayyaba.rafique.qureshi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23F38BCA.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyaba-rafique-qureshi)
+[![GitHub](https://img.shields.io/badge/GitHub-%23FFB3DE.svg?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tayyaba-rafique-qureshi)
+[![Gmail](https://img.shields.io/badge/tayyaba.rafique.qureshi%40gmail.com-%23E863B6.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tayyaba.rafique.qureshi@gmail.com)
 
 </div>
