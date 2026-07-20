@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3a2a2e,7a3a46,bf6b77,d4a0a8,e8d5d8&height=180&section=header&text=Tayyaba%20Rafique&fontSize=42&fontColor=e8d5d8&fontAlignY=38&desc=Frontend%20%26%20Full-Stack%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=15" />
+# Tayyaba Rafique
+### Frontend & Full-Stack Developer | Software Engineering Student
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=bf6b77&center=true&vCenter=true&width=650&lines=React+Developer+building+full-stack+experiences;MERN+Stack+%7C+Node.js+%7C+AI+Integration;Frontend+%26+Full-Stack+Developer;Open+to+opportunities+in+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FFB6C1&center=true&vCenter=true&width=650&lines=React+Developer+building+full-stack+experiences;MERN+Stack+%7C+Node.js+%7C+AI+Integration;Frontend+%26+Full-Stack+Developer;Open+to+opportunities+in+2026)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +14,7 @@
 ```typescript
 const tayyaba = {
   degree:    "B.Sc. Software Engineering, Bahria University Islamabad (2027)",
-  stack:     ["React", "MERN Stack", "TypeScript", "MongoDB", "AWS"],
+  stack:     ["React", "MERN Stack", "Node.js", "MongoDB", "AWS"],
   interests: ["Frontend Engineering", "MERN Stack Development", "AI-powered Applications", "Cloud Technologies"],
   contact:   "tayyaba.rafique.qureshi@gmail.com",
 };
@@ -123,7 +120,7 @@ Flask REST API with JWT auth, CRUD for pet listings and adoption requests, and a
 ### Currently Exploring
 
 - Advanced React Patterns & Hooks
-- Frontend Architecture
+- TypeScript & Frontend Architecture
 - Authentication & API Design
 - Cloud Deployment (AWS)
 - Machine Learning & Deep Learning
@@ -134,14 +131,14 @@ Flask REST API with JWT auth, CRUD for pet listings and adoption requests, and a
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tayyaba-rafique-qureshi&show_icons=true&title_color=bf6b77&icon_color=d4a0a8&text_color=e8d5d8&bg_color=1a1218&border_color=7a3a46&count_private=true&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyaba-rafique-qureshi&layout=compact&title_color=bf6b77&text_color=e8d5d8&bg_color=1a1218&border_color=7a3a46&langs_count=7" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=tayyaba-rafique-qureshi&show_icons=true&title_color=ffb6c1&icon_color=f48fb1&text_color=fce4ec&bg_color=1a0a0f&border_color=f06292&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyaba-rafique-qureshi&layout=compact&title_color=ffb6c1&text_color=fce4ec&bg_color=1a0a0f&border_color=f06292&langs_count=7" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tayyaba-rafique-qureshi&theme=dark&ring=bf6b77&fire=d4a0a8&currStreakLabel=bf6b77&sideLabels=bf6b77&dates=888&border=7a3a46)
+![GitHub Streak](https://streak-stats.demolab.com?user=tayyaba-rafique-qureshi&theme=dark&ring=ffb6c1&fire=f48fb1&currStreakLabel=ffb6c1&sideLabels=ffb6c1&dates=aaa&border=f06292)
 
 </div>
 
@@ -151,11 +148,7 @@ Flask REST API with JWT auth, CRUD for pet listings and adoption requests, and a
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tayyaba-rafique-qureshi/tayyaba-rafique-qureshi/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tayyaba-rafique-qureshi/tayyaba-rafique-qureshi/blob/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://github.com/tayyaba-rafique-qureshi/tayyaba-rafique-qureshi/blob/output/github-snake.svg" />
-</picture>
+![snake](https://github.com/tayyaba-rafique-qureshi/tayyaba-rafique-qureshi/blob/output/github-snake.svg?raw=true)
 
 </div>
 
@@ -174,8 +167,4 @@ Flask REST API with JWT auth, CRUD for pet listings and adoption requests, and a
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayyaba-rafique-qureshi)
 [![Gmail](https://img.shields.io/badge/tayyaba.rafique.qureshi%40gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tayyaba.rafique.qureshi@gmail.com)
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3a2a2e,7a3a46,bf6b77,d4a0a8,e8d5d8&height=100&section=footer" />
 </div>

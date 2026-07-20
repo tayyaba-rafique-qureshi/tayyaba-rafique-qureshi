@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=d4a0a8&color_dots=#e8d5d8,#d4a0a8,#bf6b77,#9e3a4a,#3a2a2e
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=d4a0a8&color_dots=#2a1f22,#4a2d34,#7a3a46,#9e3a4a,#bf6b77
+            dist/github-snake.svg?color_snake=ffb6c1&color_dots=#fce4ec,#f8bbd0,#f48fb1,#f06292,#e91e63
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=ffb6c1&color_dots=#1a0a0f,#3d1a2a,#7b2d4a,#c2185b,#ffb6c1
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
