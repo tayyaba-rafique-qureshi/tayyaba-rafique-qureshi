@@ -16,10 +16,10 @@
 
 ```typescript
 const tayyaba = {
-  degree:    "B.Sc. Software Engineering — Bahria University, Islamabad (2027)",
+  degree:    "B.Sc. Software Engineering, Bahria University Islamabad (2027)",
   stack:     ["React", "MERN Stack", "TypeScript", "MongoDB", "AWS"],
   interests: ["Frontend Engineering", "MERN Stack Development", "AI-powered Applications", "Cloud Technologies"],
-  contact:   "tayyabarafique204@gmail.com",
+  contact:   "tayyaba.rafique.qureshi@gmail.com",
 };
 ```
 
@@ -79,9 +79,9 @@ const tayyaba = {
 <tr>
 <td width="50%" valign="top">
 
-**CareerConnect — Full-Stack MERN Job Portal** `[Lead Dev]`
+**CareerConnect: Full-Stack MERN Job Portal** `[Lead Dev]`
 
-Full-stack MERN job portal with role-based dashboards, JWT authentication, resume management, and AI-powered candidate matching via a FastAPI microservice. Includes ATS Resume Builder, skill-gap analysis, and A\*-based career path recommendations. Deployed across Railway + Vercel.
+Full-stack MERN job portal with role-based dashboards, JWT authentication, resume management, and AI-powered candidate matching via a FastAPI microservice. Includes ATS Resume Builder, skill-gap analysis, and A-star-based career path recommendations. Deployed across Railway + Vercel.
 
 `React` `Node.js` `Express` `MongoDB` `FastAPI`
 
@@ -90,7 +90,7 @@ Full-stack MERN job portal with role-based dashboards, JWT authentication, resum
 
 **FYP Process Automation System**
 
-University portal covering the full FYP lifecycle — proposal submission, multi-stage approvals, document storage on AWS S3, and real-time progress tracking. Separate flows for students, supervisors, and admins.
+University portal covering the full FYP lifecycle: proposal submission, multi-stage approvals, document storage on AWS S3, and real-time progress tracking. Separate flows for students, supervisors, and admins.
 
 `C#` `ASP.NET Core MVC` `SQL Server` `AWS S3`
 
@@ -122,11 +122,11 @@ Flask REST API with JWT auth, CRUD for pet listings and adoption requests, and a
 
 ### Currently Exploring
 
-🌱 Advanced React Patterns & Hooks
-⚡ TypeScript & Frontend Architecture
-🔐 Authentication & API Design
-☁️ Cloud Deployment (AWS)
-🧠 Machine Learning & Deep Learning
+- Advanced React Patterns & Hooks
+- Frontend Architecture
+- Authentication & API Design
+- Cloud Deployment (AWS)
+- Machine Learning & Deep Learning
 
 ---
 
@@ -163,8 +163,8 @@ Flask REST API with JWT auth, CRUD for pet listings and adoption requests, and a
 
 ### Certifications
 
-- 🔐 **Google Cybersecurity Professional Certificate** — Coursera, June 2025
-- 🤖 **Aurex AI Hackathon** — AI-Powered LMS (Groq API + Llama, React, Node.js, MongoDB), May 2026
+- Google Cybersecurity Professional Certificate, Coursera, June 2025
+- Aurex AI Hackathon: AI-Powered LMS (Groq API + Llama, React, Node.js, MongoDB), May 2026
 
 ---
 
@@ -172,7 +172,7 @@ Flask REST API with JWT auth, CRUD for pet listings and adoption requests, and a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyaba-rafique-qureshi)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayyaba-rafique-qureshi)
-[![Gmail](https://img.shields.io/badge/tayyabarafique204%40gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tayyabarafique204@gmail.com)
+[![Gmail](https://img.shields.io/badge/tayyaba.rafique.qureshi%40gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tayyaba.rafique.qureshi@gmail.com)
 
 </div>
 
