@@ -146,8 +146,8 @@ Flask REST API with JWT auth, CRUD for pet listings and adoption requests, and a
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23F38BCA.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyaba-rafique-qureshi)
-[![GitHub](https://img.shields.io/badge/GitHub-%23FFB3DE.svg?style=for-the-badge&logo=github&logoColor=black)](https://github.com/tayyaba-rafique-qureshi)
-[![Gmail](https://img.shields.io/badge/tayyaba.rafique.qureshi%40gmail.com-%23E863B6.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tayyaba.rafique.qureshi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyaba-rafique-qureshi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tayyaba-rafique-qureshi)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tayyaba.rafique.qureshi@gmail.com)
 
 </div>
